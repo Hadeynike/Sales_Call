@@ -6,9 +6,6 @@
 
 # 🕵️‍♀️ Classifying Sales Calls ☎️
 
-👋 Hi!
-
-My name is Mikiko Bazeley 👩🏻‍💻 and this is my first capstone project: 
 💸 Predicting the Outcomes of Demo Calls for a SaaS Company. 📱
 
 From Oct 2018 to April 2019 I completed a number of projects as part of the Springboard Data Science Track. 🧠 
