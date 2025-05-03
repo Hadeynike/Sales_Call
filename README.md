@@ -4,7 +4,7 @@
 
 
 
-# 🕵️‍♀️ Classifying Sales Calls ☎️
+# 🕵️‍♀️ Classifying Sales Call ☎️
 
 💸 Predicting the Outcomes of Demo Calls for a SaaS Company. 📱
 
