@@ -6,7 +6,7 @@
 
 # 🕵️‍♀️ Classifying Sales Call ☎️
 
-💸 Predicting the Outcomes of Demo Calls for a SaaS Company. 📱
+💸 Predicting Outcomes of Demo Calls for a SaaS Company. 📱
 
 In this project I implemented a gradient boosted tree 🌲 model (XGBoost) to classify qualification of sales demo calls in order to improve forecasting efforts. This was the first time machine learning (or data science) techniques had been used in the company on something other than the product. 
 
